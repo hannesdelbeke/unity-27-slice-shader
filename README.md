@@ -1,5 +1,5 @@
 
-  Shader works like 9-slice sprites, but for 3d meshes. 
+  A [Unity](https://unity.com/) shader that works like 9-slice sprites, but for 3d meshes. 
   The shader automatically handles the scales of the objects,
   and stretchs the center of the mesh to make edges of the mesh even size.
   
