@@ -1,3 +1,6 @@
+
+  <img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/299923da-990c-4079-9c79-35bcbe5115a6_scaled.jpg" data-canonical-src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/299923da-990c-4079-9c79-35bcbe5115a6_scaled.jpg" width="200"  />
+
   Shader works like 9-slice sprites, but for 3d meshes. 
   The shader automatically handles the scales of the objects,
   and stretchs the center of the mesh to make edges of the mesh even size.
