@@ -4,4 +4,4 @@
 
 #### original source:
   this was forked from https://github.com/Shahzod114/unity-27-slice-shader
-  which is down, and appeards replaced with https://github.com/specoolar/Unity-Shaders
+  which is down, and appears replaced with https://github.com/specoolar/Unity-Shaders
