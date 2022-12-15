@@ -8,4 +8,5 @@
 
 #### other
 - someone made a paid unity plugin, [forum](https://forum.unity.com/threads/27-slicer-9-slicing-but-for-3d-meshes.1200301/), [asset store](https://assetstore.unity.com/packages/tools/utilities/27-slicer-204453)
-- og reddit [thread](https://www.reddit.com/r/Unity3D/comments/ifcede/made_a_shader_something_like_9slice_sprites_but/)
+- original reddit [thread](https://www.reddit.com/r/Unity3D/comments/ifcede/made_a_shader_something_like_9slice_sprites_but/) with a video showing the shader
+- another reddit [thread](https://www.reddit.com/r/Unity3D/comments/c7coh5/a_9slice_system_but_for_meshes/) with similar feature
