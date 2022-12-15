@@ -1,13 +1,18 @@
 
-  <img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/299923da-990c-4079-9c79-35bcbe5115a6_scaled.jpg" data-canonical-src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/299923da-990c-4079-9c79-35bcbe5115a6_scaled.jpg" width="200" /> (reusing image from another plugin)
-
   Shader works like 9-slice sprites, but for 3d meshes. 
   The shader automatically handles the scales of the objects,
   and stretchs the center of the mesh to make edges of the mesh even size.
+  
+  
+  <img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/299923da-990c-4079-9c79-35bcbe5115a6_scaled.jpg" data-canonical-src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/299923da-990c-4079-9c79-35bcbe5115a6_scaled.jpg" width="300" />
+ <sup>reused image from another plugin</sup>
+ 
+
 
 #### original source:
   i did not make this, this was forked from https://github.com/Shahzod114/unity-27-slice-shader
-  which is down. The dev reuploaded it to https://github.com/specoolar/Unity-Shaders
+  which is down. <br>
+  The dev reuploaded it to https://github.com/specoolar/Unity-Shaders
 
 #### other
 - someone made a paid unity plugin, [forum](https://forum.unity.com/threads/27-slicer-9-slicing-but-for-3d-meshes.1200301/), [asset store](https://assetstore.unity.com/packages/tools/utilities/27-slicer-204453)
